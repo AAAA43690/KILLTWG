@@ -76,7 +76,7 @@ A : 不，你可以下載後存在自己的雲端硬碟，下次只要登入自�
 
 ## 我想鼓(炮)勵(轟)你，該怎麼找到你?
 
-你可以透過電子郵件 aaaa125252@gmail.com，或是透過 [Discord Server](https://discord.gg/vw7jpmyPsX) 聯繫到我。
+你可以透過電子郵件 aaaa125252@gmail.com，或是透過 [Discord Server](https://discord.gg/NzeAnxuRJn) 聯繫到我。
 
     備註:
 
