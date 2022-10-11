@@ -1,7 +1,8 @@
 # *KILLTWG*
-真心建議第一次使用可以先把這篇看完
-
-***拜託分享~  感謝~***
+## 重大公告
+> KILLTWG 有 APP 版本囉，不僅畫面更簡潔，操作也更方便
+>
+> 下載頁面在這裡 : [KILLTWG-APP](https://github.com/Anonymous-AAAA/KILLTWG-App)
 
 ## 這個檔案可以幹嘛?
 如果上電腦課老師一直切畫面，導致你不高興，打開 KILLTWG，一次解決問題。
